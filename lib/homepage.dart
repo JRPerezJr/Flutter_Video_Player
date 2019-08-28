@@ -15,10 +15,10 @@ class _HomePageState extends State<HomePage> {
   String screenSubText = "";
   Timer timer;
   int position = 0;
-  List<String> screenTextList = ["Welcome", "Browse", "Search"];
+  List<String> screenTextList = ["Welcome", "Enjoy", "Search"];
   List<String> screenSubTextList = [
-    "Signup for a free subscription to my YouTube channel.",
-    "Please like and subscribe.",
+    "This is a cool example of the video player.",
+    "Programming with Flutter is fun.",
     "Looking for a special video, please checkout my playlist."
   ];
 
